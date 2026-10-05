@@ -35,10 +35,8 @@ and Average Rating across outlet types.
 - Average sales : $141
 - Number of items : 8,523
 - average rating : 3.9
-## 📐 DAX Functions Used
-
+## DAX Functions Used
 ### 1. Total Sales
-```DAX
 Total Sales = SUM('BlinkIT Grocery Data (8)'[Sales])
 ###  2. average sales
 Average Sales = AVERAGE('BlinkIT Grocery Data (8)'[Sales])
